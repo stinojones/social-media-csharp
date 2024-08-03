@@ -1,0 +1,15 @@
+/Users/stinojones/Desktop/classess/final/FinalProject/bin/Debug/net7.0/FinalProject
+/Users/stinojones/Desktop/classess/final/FinalProject/bin/Debug/net7.0/FinalProject.deps.json
+/Users/stinojones/Desktop/classess/final/FinalProject/bin/Debug/net7.0/FinalProject.runtimeconfig.json
+/Users/stinojones/Desktop/classess/final/FinalProject/bin/Debug/net7.0/FinalProject.dll
+/Users/stinojones/Desktop/classess/final/FinalProject/bin/Debug/net7.0/FinalProject.pdb
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/FinalProject.csproj.AssemblyReference.cache
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfoInputs.cache
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfo.cs
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/FinalProject.csproj.CoreCompileInputs.cache
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/FinalProject.dll
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/refint/FinalProject.dll
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/FinalProject.pdb
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/FinalProject.genruntimeconfig.cache
+/Users/stinojones/Desktop/classess/final/FinalProject/obj/Debug/net7.0/ref/FinalProject.dll
